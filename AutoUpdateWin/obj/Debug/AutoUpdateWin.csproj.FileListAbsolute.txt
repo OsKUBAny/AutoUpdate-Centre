@@ -1,0 +1,16 @@
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\bin\Debug\AutoUpdateWin.exe.config
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\bin\Debug\AutoUpdateWin.exe
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\bin\Debug\AutoUpdateWin.pdb
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\AutoUpdateWin.csprojAssemblyReference.cache
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\AutoUpdateWin.Properties.Resources.resources
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\AutoUpdateWin.csproj.GenerateResource.cache
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\AutoUpdateWin.csproj.CoreCompileInputs.cache
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\AutoUpdateWin.exe
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\AutoUpdateWin.pdb
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\AutoUpdateWin.Main.resources
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\bin\Debug\AutoUpdateWin.exe.manifest
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\bin\Debug\AutoUpdateWin.application
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\AutoUpdateWin.exe.manifest
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\AutoUpdateWin.application
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Debug\AutoUpdateWin.csproj.ResolveComReference.cache

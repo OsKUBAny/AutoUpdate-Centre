@@ -1,0 +1,14 @@
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\bin\Release\AutoUpdateWin.exe.config
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\bin\Release\AutoUpdateWin.exe.manifest
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\bin\Release\AutoUpdateWin.application
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\bin\Release\AutoUpdateWin.exe
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\bin\Release\AutoUpdateWin.pdb
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Release\AutoUpdateWin.csprojAssemblyReference.cache
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Release\AutoUpdateWin.Main.resources
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Release\AutoUpdateWin.Properties.Resources.resources
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Release\AutoUpdateWin.csproj.GenerateResource.cache
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Release\AutoUpdateWin.csproj.CoreCompileInputs.cache
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Release\AutoUpdateWin.exe.manifest
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Release\AutoUpdateWin.application
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Release\AutoUpdateWin.exe
+D:\Users\THEku\Programowanie\AutoUpdate\AutoUpdateWin\AutoUpdateWin\obj\Release\AutoUpdateWin.pdb
