@@ -3,7 +3,7 @@
 Program służący do automatycznego sprawdzania dostępnych aktualizacji dla wybranej aplikacji
 
 Wszystkie ustawienia można zmienić w klasie Obj.cs
-!program obsługuje jedynie poączenia http/https!
+Uwaga: program obsługuje jedynie poączenia http/https
 
 Na serwerze znajdować się muszą oprócz plików konfiguracyjnych:
 >plik z wersją klienta w formacie float(,)
